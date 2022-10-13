@@ -80,58 +80,58 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['6282139673896', '𝐸𝑃𝑎𝑛𝑛𝑋𝐷', true],
+['62882005031113', '𝐸𝑃𝑎𝑛𝑛𝑂𝐹𝐶', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
+global.nomorbot = '62882006377070'
+global.nomorown = '6282139673896'
+global.nomorown1 = '6282139673896'
+global.nomorown2 = '62882005031113'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Aʟᴅɪ X Aɪsʏᴀʜ'
-global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.author = '𝐸𝑃𝑎𝑛𝑛𝑋𝐷'
+global.namebot = '​ 𝑋𝑦𝑢𝑟𝑎 𝐵𝑜𝑡 𝑀𝑑'
+global.wm = '© 𝑋𝑦𝑢𝑟𝑎𝐵𝑜𝑡 𝑀𝑑 𝐵𝑦𝑒 𝐸𝑃𝑎𝑛𝑛𝑋𝐷'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.wm = '𝐸𝑃𝑎𝑛𝑛𝑂𝐹𝐶'
 global.watermark = wm
-global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.wm2 = '𝐸𝑃𝑎𝑛𝑛𝑋𝐷'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© Yushino MD`
+global.titlebot = `𝑁𝑜 𝑃𝑎𝑡𝑛𝑒𝑟 𝑃𝑎𝑡𝑛𝑒𝑟`
+global.stickpack = '𝑁𝑜 𝑃𝑎𝑡𝑛𝑒𝑟 𝑃𝑎𝑡𝑛𝑒𝑟'
+global.stickauth = `© 𝑋𝑦𝑢𝑟𝑎𝐵𝑜𝑡 𝑀𝐷`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Aldi'
-global.nameown2 = 'Aisyah'
+global.nameown1= '𝐸𝑃𝑎𝑛𝑛𝑋𝐷'
+global.nameown2 = '𝐸𝑃𝑎𝑛𝑛𝑂𝐹𝐶'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.Linkgc = '𝐵𝑒𝑛𝑡𝑎𝑟'
+global.lynk = '𝐺𝑎 𝑎𝑑𝑎'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
-global.sgh = 'https://github.com/hyuura-official' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sig = 'https://instagram.com/epannxy_'
+global.sgh = 'https://github.com/epanshop21' //github
+global.sgc = 'https://chat.whatsapp.com/BjgI1tP29Nt4zQ97DhDh6Y' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '0821 3967 3896'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pgopay = '0821 3967 3896'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0821 3967 3896'
+global.ppulsa2 = '0882 0050 31113'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -343,9 +343,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/epannxy_"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '0821 3967 3896'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
